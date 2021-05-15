@@ -78,7 +78,7 @@ Usage
     usage: speedtest-cli [-h] [--no-download] [--no-upload] [--single] [--bytes]
                          [--share] [--simple] [--csv]
                          [--csv-delimiter CSV_DELIMITER] [--csv-header] [--json]
-                         [--list] [--server SERVER] [--exclude EXCLUDE]
+                         [--list] [--search SEARCH] [--server SERVER] [--exclude EXCLUDE]
                          [--mini MINI] [--source SOURCE] [--timeout TIMEOUT]
                          [--secure] [--no-pre-allocate] [--version]
 
