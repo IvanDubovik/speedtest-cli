@@ -78,9 +78,11 @@ Usage
     usage: speedtest-cli [-h] [--no-download] [--no-upload] [--single] [--bytes]
                          [--share] [--simple] [--csv]
                          [--csv-delimiter CSV_DELIMITER] [--csv-header] [--json]
-                         [--list] [--search SEARCH] [--server SERVER] [--exclude EXCLUDE]
-                         [--mini MINI] [--source SOURCE] [--timeout TIMEOUT]
-                         [--secure] [--no-pre-allocate] [--version]
+                         [--list] [--search SEARCH] [--server SERVER]
+                         [--exclude EXCLUDE] [--mini MINI] [--source SOURCE]
+                         [--timeout TIMEOUT] [--secure] [--no-pre-allocate]
+                         [--version]
+
 
     Command line interface for testing internet bandwidth using speedtest.net.
     --------------------------------------------------------------------------
